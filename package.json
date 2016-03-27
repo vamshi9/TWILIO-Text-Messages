@@ -1,0 +1,36 @@
+{
+  "name": "vamshi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vamshi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.1",
+    "debug": "^2.2.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.13.0",
+    "handlebars": "^4.0.5",
+    "jade": "^1.11.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.7",
+    "morgan": "^1.6.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.0.0",
+    "passport-google-oauth": "^0.2.0",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.3",
+    "serve-favicon": "^2.3.0",
+    "static-favicon": "^1.0.2",
+    "twilio": "^2.9.0"
+  }
+}
