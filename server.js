@@ -5,7 +5,7 @@ var app = express() ;
 //setting up the port
 var port = process.env.PORT || 2626;
 
-var client = require('twilio')('AC055c8cc931370c698abd3e47895b203e ','889faafa183be7de10c2ba9c36bb9a7f ') ;
+var client = require('twilio')('#','#') ; //You have to add your credentials of TWILIO.
 
 var cookie = require('cookie-parser') ; 
 
