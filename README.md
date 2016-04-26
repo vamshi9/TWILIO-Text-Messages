@@ -28,9 +28,9 @@ Send text messages using twilio through node  server
 	      });
       });
   ```
-##Step 3 : 
-   open the command promp,set the path and type 'npm install'
+##Step 4 : 
+   open the command prompt,set the path and type 'npm install'
    
-##Step 4 :
+##Step 5 :
    Now you are all set.Open command prompt and run server.js.I would suggest you NODEMON tool to run the server because it's my favourite tool!
    
