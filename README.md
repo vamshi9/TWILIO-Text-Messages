@@ -17,7 +17,7 @@ Send text messages using twilio through node  server
 	     client.sendMessage({
 	   	      to : 'Any number',
 		        from : 'Twilio Number ',
-	         	body : 'love you Maha <3   '  
+	         	body : 'let the spam be began  '  
 	     },function(err,data){
 		       if(err){
 		       	console.log(err);
