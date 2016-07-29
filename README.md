@@ -1,5 +1,5 @@
 # Text-Messages
-Send text messages using twilio through node  server
+Send text messages using TWILIO Gateway through node server
 
 ##Step 1 :
   Copy the code into your editor
